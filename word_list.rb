@@ -10,5 +10,5 @@ while goodbye == false do
              word_list << word
         end
 end
-puts word_list
+puts word_list.sort
 
